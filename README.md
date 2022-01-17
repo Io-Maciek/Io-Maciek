@@ -53,9 +53,28 @@
     <a href="https://docs.microsoft.com/pl-pl/dotnet/maui/what-is-maui" target="_blank" rel="noreferrer"> 
       <img src="https://styles.redditmedia.com/t5_2odyx7/styles/communityIcon_19sk0x18irz41.png" alt=".net maui" width="40" height="40"/> 
     </a>
-    <a href="https://unity.com/" target="_blank" rel="noreferrer"> 
-      <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> 
+  </ul>
+</p>
+
+<p align="left">   
+  <h3>🛠Narzędzia🛠</h3>
+  <ul>
+    <a href="https://visualstudio.microsoft.com/pl/" target="_blank" rel="noreferrer"> 
+      <img src="https://cdn-icons-png.flaticon.com/512/906/906324.png" alt="visual studio" width="40" height="40"/> 
     </a>
+    <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer"> 
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/2048px-IntelliJ_IDEA_Icon.svg.png" alt="intellij IDEA" width="40" height="40"/> 
+    </a>
+    <a href="https://www.jetbrains.com/pycharm/" target="_blank" rel="noreferrer"> 
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/1024px-PyCharm_Icon.svg.png" alt="pycharm" width="40" height="40"/> 
+    </a>
+    <a href="https://unity.com/" target="_blank" rel="noreferrer"> 
+      <img src="https://cdn4.iconfinder.com/data/icons/various-icons-2/476/Unity.png" alt="unity" width="40" height="40"/> 
+    </a>
+    <a href="https://rapidminer.com/" target="_blank" rel="noreferrer"> 
+      <img src="https://yt3.ggpht.com/ytc/AKedOLSZzua1G6iU99tly9DfZL0GsyCQeONKPxm7UU2INg=s900-c-k-c0x00ffffff-no-rj" alt="rapidminer" width="40" height="40"/> 
+    </a>
+    <img src="https://www.edureka.co/blog/wp-content/uploads/2019/10/logo.png" alt="sql server management studio" width="40" height="40"/> 
   </ul>
 </p>
 
