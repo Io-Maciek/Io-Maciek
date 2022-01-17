@@ -79,7 +79,7 @@
     <a href="https://dotnet.microsoft.com/apps/xamarin" target="_blank" rel="noreferrer"> 
       <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/xamarin.svg" alt="xamarin" width="40" height="40"/> 
     </a>
-    <a href="https://docs.microsoft.com/pl-pl/aspnet/core/introduction-to-aspnet-core?view=aspnetcore-6.0" target="_blank" rel="noreferrer"> 
+    <a href="https://dotnet.microsoft.com/en-us/apps/aspnet" target="_blank" rel="noreferrer"> 
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/2048px-.NET_Core_Logo.svg.png" alt="asp .net core" width="40" height="40"/> 
     </a>
     <a href="https://docs.microsoft.com/pl-pl/dotnet/maui/what-is-maui" target="_blank" rel="noreferrer"> 
