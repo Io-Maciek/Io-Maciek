@@ -2,6 +2,38 @@
 <h3 id="smallMarh" style="margin: 100px 0;" align="center">📚Student Informatyki na Uniwersytecie Ekonomicznym w Katowicach📚</h3>
 <h4 align="center">🎮Programowanie gier i aplikacji mobilnych📱</h4>
 
+
+<h2 align="center">
+        <img src="https://play-lh.googleusercontent.com/94f05BJFtIRJDaGK1sWiZsIjxCEZJljlVnFdlHhPQqCIS4T5UxAWFY_v4GE0D_4W6x8=s180" width="40" height="40"/>
+        <a href="https://play.google.com/store/apps/details?id=com.iogames.kniffel" target="_blank" rel="noreferrer">
+        Gra 🎲Kniffel dostępna na Google Play!
+        </a>
+        <img src="https://play-lh.googleusercontent.com/94f05BJFtIRJDaGK1sWiZsIjxCEZJljlVnFdlHhPQqCIS4T5UxAWFY_v4GE0D_4W6x8=s180" width="40" height="40"/>
+</h2>
+
+<p>
+    <h3>Linki społecznościowe</h3>
+    <ul>
+        <li>
+            <div>
+                <a href="https://www.linkedin.com/in/maciej-kuchcik-886760207/">
+                    <img align="middle" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="40" height="40"/>
+                    Linkedin
+                </a>
+            </div> 
+        </li>
+            <li>
+            <div>
+                <a href="https://play.google.com/store/apps/dev?id=8148106107901304879">
+                    <img align="middle" src="https://cdn.pixabay.com/photo/2016/08/31/00/49/google-1632434_960_720.png" width="40" height="40"/>
+                    Google Play
+                </a>
+            </div> 
+        </li>
+    </ul>
+</p
+
+
 <br></br>
 <p align="left"> 
     <h3>🖥Systemy operacyjne🖥</h3>
