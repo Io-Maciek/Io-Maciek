@@ -1,6 +1,6 @@
 <h1 align="center">Witam Maciek tutaj 🖐</h1>
-<h3 id="smallMarh" style="margin: 100px 0;" align="center">📚Student Informatyki na Uniwersytecie Ekonomicznym w Katowicach📚</h3>
-<h4 align="center">🎮Programowanie gier i aplikacji mobilnych📱</h4>
+<h3 align="center">🧠Pracownik instytutu badawczego Łukasiewicz w Katowicach na stanowisku specjalisty ds. sztucznej inteligencji📱</h4>
+<h4 id="smallMarh" style="margin: 100px 0;" align="center">📚Absolwent Uniwersytetu Ekonomicznego w Katowicach na Informatyce z tytułem licencjata 📚</h3>
 
 
 <h2 align="center">
@@ -41,7 +41,7 @@
                 <table>
                 <tr>
                         <th>
-                                <img src="https://icons-for-free.com/iconfiles/png/512/microsoft+os+pc+system+windows+windows10+icon-1320165732386329170.png" width="40" height="40"/> 
+                                <img src="https://raw.githubusercontent.com/EgoistDeveloper/operating-system-logos/master/src/48x48/WIN.png" width="40" height="40"/> 
                         </th><th>
                                 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" width="40" height="40"/> 
                         </th><th>
@@ -85,6 +85,12 @@
                         <th>
                                      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
                         </th>
+                        <th>
+                                     <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Micropython-logo.svg" alt="micropythonpython" width="40" height="40"/> 
+                        </th>
+                        <th>
+                                     <img src="https://logowik.com/content/uploads/images/arduino5804.jpg" alt="arduino" width="50" height="40"/> 
+                        </th>
                 </tr>
                                 <tr>
                         <td>
@@ -98,6 +104,12 @@
                         </td>
                         <td>
                                 Python
+                        </td>
+                        <td>
+                                Micropython
+                        </td>
+                        <td>
+                                Arduino
                         </td>
                 </tr>
          </table>
