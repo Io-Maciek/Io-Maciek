@@ -1,15 +1,17 @@
 <h1 align="center">Witam Maciek tutaj 🖐</h1>
-<h3 align="center">🧠Pracownik instytutu badawczego Łukasiewicz w Katowicach na stanowisku specjalisty ds. sztucznej inteligencji📱</h4>
-<h4 id="smallMarh" style="margin: 100px 0;" align="center">📚Absolwent Uniwersytetu Ekonomicznego w Katowicach na Informatyce z tytułem licencjata 📚</h3>
+<p align="center">🧠Pracownik instytutu badawczego Łukasiewicz w Katowicach na stanowisku specjalisty ds. sztucznej inteligencji📱</p>
+<p id="smallMarh" style="margin: 100px 0;" align="center">📚Absolwent Uniwersytetu Ekonomicznego w Katowicach na Informatyce z tytułem licencjata 📚</p>
 
 
-<h2 align="center">
+<p align="center">
         <img src="https://play-lh.googleusercontent.com/94f05BJFtIRJDaGK1sWiZsIjxCEZJljlVnFdlHhPQqCIS4T5UxAWFY_v4GE0D_4W6x8=s180" width="40" height="40"/>
         <a href="https://play.google.com/store/apps/details?id=com.iogames.kniffel" target="_blank" rel="noreferrer">
         Gra 🎲Kniffel dostępna na Google Play!
         </a>
         <img src="https://play-lh.googleusercontent.com/94f05BJFtIRJDaGK1sWiZsIjxCEZJljlVnFdlHhPQqCIS4T5UxAWFY_v4GE0D_4W6x8=s180" width="40" height="40"/>
-</h2>
+</p>
+
+</br>
 
 <p>
     <h3>Linki społecznościowe</h3>
@@ -34,7 +36,7 @@
 </p
 
 
-<br></br>
+<br>
 <p align="left"> 
     <h3>🖥Systemy operacyjne🖥</h3>
     <ul>
@@ -80,7 +82,7 @@
                             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
                         </th>
                         <th>
-                                    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/> 
+                                    <img src="https://www.rust-lang.org/logos/rust-logo-512x512.png" alt="rust" width="40" height="40"/> 
                        </th>
                         <th>
                                      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
