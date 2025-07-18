@@ -1,5 +1,5 @@
 <h1 align="center">Witam Maciek tutaj 🖐</h1>
-<p align="center">🧠Pracownik instytutu badawczego Łukasiewicz w Katowicach na stanowisku specjalisty ds. sztucznej inteligencji📱</p>
+<p align="center">📈Pracownik Mokate na stanowisku młodszego specjalisty ds. Power Apps i BI📊</p>
 <p id="smallMarh" style="margin: 100px 0;" align="center">📚Absolwent Uniwersytetu Ekonomicznego w Katowicach na Informatyce z tytułem licencjata 📚</p>
 
 
