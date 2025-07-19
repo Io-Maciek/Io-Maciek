@@ -1,15 +1,7 @@
-<h1 align="center">Witam Maciek tutaj 🖐</h1>
+<h1 align="center">Cześć, jestem Maciek! 👋</h1>
 <p align="center">📈Pracownik Mokate na stanowisku młodszego specjalisty ds. Power Apps i BI📊</p>
 <p id="smallMarh" style="margin: 100px 0;" align="center">📚Absolwent Uniwersytetu Ekonomicznego w Katowicach na Informatyce z tytułem licencjata 📚</p>
 
-
-<p align="center">
-        <img src="https://play-lh.googleusercontent.com/94f05BJFtIRJDaGK1sWiZsIjxCEZJljlVnFdlHhPQqCIS4T5UxAWFY_v4GE0D_4W6x8=s180" width="40" height="40"/>
-        <a href="https://play.google.com/store/apps/details?id=com.iogames.kniffel" target="_blank" rel="noreferrer">
-        Gra 🎲Kniffel dostępna na Google Play!
-        </a>
-        <img src="https://play-lh.googleusercontent.com/94f05BJFtIRJDaGK1sWiZsIjxCEZJljlVnFdlHhPQqCIS4T5UxAWFY_v4GE0D_4W6x8=s180" width="40" height="40"/>
-</p>
 
 </br>
 
