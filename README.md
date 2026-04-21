@@ -16,14 +16,6 @@
                 </a>
             </div> 
         </li>
-            <li>
-            <div>
-                <a href="https://play.google.com/store/apps/dev?id=8148106107901304879">
-                    <img align="middle" src="https://cdn.pixabay.com/photo/2016/08/31/00/49/google-1632434_960_720.png" width="40" height="40"/>
-                    Google Play
-                </a>
-            </div> 
-        </li>
     </ul>
 </p
 
