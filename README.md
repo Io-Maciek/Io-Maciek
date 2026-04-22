@@ -1,6 +1,6 @@
 <h1 align="center">Cześć, jestem Maciek! 👋</h1>
 <p align="center">📈Pracownik Mokate na stanowisku młodszego specjalisty ds. Power Apps i BI📊</p>
-<p id="smallMarh" style="margin: 100px 0;" align="center">📚Absolwent Uniwersytetu Ekonomicznego w Katowicach na Informatyce z tytułem licencjata 📚</p>
+<p id="smallMarh" style="margin: 100px 0;" align="center">📚Student studiów magisterskich z Informatyki na Uniwersytecie Ekonomicznym w Katowicach📚</p>
 
 
 </br>
